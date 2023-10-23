@@ -1,4 +1,4 @@
-# Extract_article
+# Comment ça marche?
 
 1) Ouvrir un nouveau terminal dans le dossier Extract_article
 2) Pour une premiere installation, installez les paquets suivants: 
